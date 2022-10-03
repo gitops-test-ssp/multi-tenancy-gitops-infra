@@ -13,7 +13,6 @@ allowHostIPC: false
 allowHostNetwork: false
 allowHostPID: false
 allowHostPorts: false
-privileged: false
 allowPrivilegedContainer: false
 allowPrivilegeEscalation: true
 requiredDropCapabilities:
